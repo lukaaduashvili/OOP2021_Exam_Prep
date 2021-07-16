@@ -3,8 +3,6 @@ import junit.framework.TestCase;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import static org.junit.Assert.assertThrows;
-
 
 public class TestStack extends TestCase {
 
